@@ -1,4 +1,10 @@
-*.db
-*.py[cod]
-.web
+*.db
+
+*.py[cod]
+
+.web
+back
+node_modeules
+venv/Lib
 __pycache__/
+*.whl
